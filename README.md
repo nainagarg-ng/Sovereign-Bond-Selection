@@ -1,7 +1,7 @@
 ## **Optimizing Sovereign Bond Portfolio Strategy with Machine Learning and AI Agents using Relative Value Analysis**
 
 1. Live website: [Website!](https://nainagarg-ng.github.io/Sovereign-Bond-Selection/)
-2. 2-minute Video: [Video!](https://youtu.be/)
+2. Dashboard: [Website!](https://citibank-team.replit.app/))
 
 
 ## **TECHNICAL DETAILS**
